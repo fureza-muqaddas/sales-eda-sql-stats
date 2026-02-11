@@ -16,9 +16,9 @@ This project performs exploratory data analysis on a retail superstore dataset t
 - A small number of products drive a large portion of total sales.
 
 ## Visuals
-![Monthly Sales Trend](visuals/monthly_sales_trend.png)
-![Category Sales Trend](visuals/catogory_sales_trend.png)
-![Top 10 Products](visuals/top_ten_products_sales.png)
+![Monthly Sales Trend](./visuals/monthly_sales_trend.png)
+![Category Sales Trend](./visuals/catogory_sales_trend.png)
+![Top 10 Products](./visuals/top_ten_products_sales.png)
 
 ## Project Status
 ✅ EDA completed  
