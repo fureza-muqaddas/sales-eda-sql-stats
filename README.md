@@ -1,14 +1,24 @@
 # Sales Data Analysis (EDA)
 
-## Project Overview
-This project performs exploratory data analysis on a sales dataset to uncover trends, patterns, and business insights using Python, SQL, and statistics.
+## Overview
+This project performs exploratory data analysis on a retail superstore dataset to uncover sales trends, category performance, and high-impact products.
 
-## Tools & Technologies
+## Tools Used
 - Python
 - Pandas, NumPy
 - Matplotlib
-- SQL
+- SQL (planned)
 - Statistics
 
+## Key Insights
+- Sales fluctuate over time rather than showing consistent growth.
+- Technology is the strongest revenue-generating category.
+- A small number of products drive a large portion of total sales.
+
+## Visuals
+![Monthly Sales Trend](visuals/monthly_sales_trend.png)
+
 ## Project Status
-🚧 In progress — data cleaning and exploratory analysis
+✅ EDA completed  
+🚧 SQL analysis next
+
