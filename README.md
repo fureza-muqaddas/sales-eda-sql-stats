@@ -21,4 +21,3 @@ This project performs exploratory data analysis on a retail superstore dataset t
 ## Project Status
 ✅ EDA completed  
 🚧 SQL analysis next
-
