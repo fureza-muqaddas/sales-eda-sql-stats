@@ -17,7 +17,7 @@ This project performs exploratory data analysis on a retail superstore dataset t
 
 ## Visuals
 ![Monthly Sales Trend](./visuals/monthly_sales_trend.png)
-![Category Sales Trend](./visuals/catogory_sales_trend.png)
+![Category Sales Trend](./visuals/category_sales_trend.png)
 ![Top 10 Products](./visuals/top_ten_products_sales.png)
 
 ## Project Status
